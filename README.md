@@ -1,0 +1,2 @@
+# bloodbank
+django-project
